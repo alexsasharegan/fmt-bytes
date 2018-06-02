@@ -1,0 +1,24 @@
+{
+  "name": "fmt-bytes",
+  "version": "1.0.0",
+  "description": "Utility to format/convert bytes.",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "build": "tsc && cp flow-typed/index.js lib/index.js.flow",
+    "prepublishOnly": "npm run build",
+    "release": "standard-version",
+    "postrelease": "git push --follow-tags origin master && npm publish",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alex Regan",
+  "license": "MIT",
+  "devDependencies": {
+    "standard-version": "^4.4.0",
+    "typescript": "^2.9.1"
+  }
+}
