@@ -1,6 +1,6 @@
 {
   "name": "fmt-bytes",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Utility to format/convert bytes.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
