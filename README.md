@@ -3,10 +3,7 @@
 [![npm](https://img.shields.io/npm/v/fmt-bytes.svg?style=for-the-badge)](https://img.shields.io/npm/v/fmt-bytes)
 [![npm downloads](https://img.shields.io/npm/dt/fmt-bytes.svg?style=for-the-badge)](https://www.npmjs.com/package/fmt-bytes)
 [![GitHub issues](https://img.shields.io/github/issues/alexsasharegan/fmt-bytes.svg?style=for-the-badge)](https://github.com/alexsasharegan/fmt-bytes/issues)
-<!-- [![Travis](https://img.shields.io/travis/alexsasharegan/fmt-bytes.svg?style=for-the-badge)](https://github.com/alexsasharegan/fmt-bytes) -->
-<!-- [![Coverage Status](https://img.shields.io/coveralls/github/alexsasharegan/fmt-bytes.svg?style=for-the-badge)](https://coveralls.io/github/alexsasharegan/fmt-bytes) -->
 [![GitHub license](https://img.shields.io/github/license/alexsasharegan/fmt-bytes.svg?style=for-the-badge)](https://github.com/alexsasharegan/fmt-bytes/blob/master/LICENSE.md)
-
 
 Utility to format/convert bytes.
 
